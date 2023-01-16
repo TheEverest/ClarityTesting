@@ -1,0 +1,28 @@
+body{
+    border: 1px black solid;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.links{
+    text-align: center;
+}
+
+.link{
+    font-family: "Monotype Corsiva", ui-monospace;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.copyright{
+    text-align: center;
+    border: 1px solid black;
+    margin-top: 180px;
+    margin-bottom: 0;
+    padding: 15px;
+    color: white;
+}
+
+.footer{
+    background-color: blue;
+}
